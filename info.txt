@@ -1,0 +1,2 @@
+1. Figma Design with https://www.figma.com/design/RxH76K9bxXZNWqmxSE8lbn/CNC-Intel?node-id=3-2
+2. Requirements is html and css.
